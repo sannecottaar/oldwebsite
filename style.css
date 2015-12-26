@@ -192,6 +192,6 @@ color:#000000;
 }
 
 #lists
-li:not(:last-child) {
+ol li:not(:last-child) {
     padding-bottom: 20px;
 }

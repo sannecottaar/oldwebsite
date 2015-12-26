@@ -34,10 +34,7 @@ p {text-align: left;}
   padding-right:20px;
 }
 
-#lists
-li{
-    margin: 10px 0;
-}
+
 
 #header
 {
@@ -192,4 +189,9 @@ color:#000000;
 		border: 2px solid #267B9B ;
 			
 	
+}
+
+#lists
+li{
+    margin: 10px 0;
 }

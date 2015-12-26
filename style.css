@@ -35,8 +35,8 @@ p {text-align: left;}
 }
 
 #lists
-li:not(:last-child) {
-    margin-bottom: 15px;
+li{
+    margin: 10px 0;
 }
 
 #header
